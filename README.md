@@ -72,7 +72,7 @@ To set up this project, follow these steps:
 ### Clone the GitHub repository:
 bash
 Copy code
-git clone https://github.com/yourusername/walmart-sales-analysis.git
+git clone https://github.com/Akanksha-Nakati/walmart-sales-analysis.git
 Install SQL Server or any compatible SQL environment.
 Import the SQL script from the cloned repository into your SQL environment.
 
