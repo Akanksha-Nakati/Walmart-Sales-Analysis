@@ -1,4 +1,4 @@
-#Sales-Analysis
+# Sales-Analysis
 
 ## About
 This Walmart Sales Analysis project explores comprehensive sales data to extract insights that can guide strategic business decisions. The analysis is structured around answering critical questions within three categories: Products, Sales, and Customers. 
