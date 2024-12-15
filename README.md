@@ -66,6 +66,9 @@ Here are the specific questions addressed:
  
 10.⁠ ⁠Which day of the week has the best aver ge ratings per branch?
 
+# PowerBI report
+Here is the visualization in powerbi https://app.powerbi.com/links/KArctCwmDU?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare
+
 ## Installation
 To set up this project, follow these steps:
 
